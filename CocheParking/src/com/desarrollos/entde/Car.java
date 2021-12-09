@@ -14,7 +14,7 @@ public class Car
     static int numberWheels = 4;                // Number of wheels                           
     
     Garage theGarage=null;
-
+//aquí van solo las correcciones
     
     /**
      * Constructor of a car specifying the garage object
